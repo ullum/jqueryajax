@@ -1,0 +1,2 @@
+<h2>Nahhh, data ini diambil pakai teknologi "Ajax"</h2>
+<br>
